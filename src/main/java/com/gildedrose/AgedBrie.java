@@ -4,7 +4,7 @@ public class AgedBrie extends Item {
 
 	public AgedBrie(int sellIn, int quality) {
 		super("Aged Brie", sellIn, quality);
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	
